@@ -8,7 +8,7 @@ Data center servers located in thermal hotspot regions receive inlet air at a hi
 - Hotspot-aware server relocation algorithm (HASRA)
 - Outlet temperature prediction for thermal profiling
 - Comparison with existing algorithms (TASA and GRANITE)
-- Evaluation of efficacy in reducing peak outlet temperatures
+- Evaluation of efficacy in reducing peak outlet temperatures  
 
 ## Getting Started
 To get started with the Thermal Hotspot-Aware Data Center Workload Optimization project, follow these steps:
