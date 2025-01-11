@@ -29,4 +29,4 @@ To get started with the Thermal Hotspot-Aware Data Center Workload Optimization 
 - [Mr. Furqan Rustam](https://sciprofiles.com/profile/furqanrustam)
 
 ## License
-This project is licensed under the [MDPI](https://www.mdpi.com/1996-1073/15/7/2541).
+This project is licensed under the [MDPI](https://www.mdpi.com/1996-1073/15/7/2541). 
